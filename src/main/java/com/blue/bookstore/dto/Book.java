@@ -4,7 +4,6 @@
  */
 package com.blue.bookstore.dto;
 
-import jakarta.persistence.Entity;
 import java.io.Serializable;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
