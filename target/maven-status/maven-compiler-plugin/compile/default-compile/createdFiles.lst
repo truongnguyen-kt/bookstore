@@ -6,4 +6,3 @@ com\blue\bookstore\dao\BookDAO.class
 com\blue\bookstore\resource\v3\BookResource.class
 com\blue\bookstore\resource\v1\BookResource.class
 com\blue\bookstore\config\BookApplication.class
-.netbeans_automatic_build

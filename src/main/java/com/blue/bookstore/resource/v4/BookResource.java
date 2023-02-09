@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 @Path("v4/books")
 public class BookResource {
 
-    @POST
-    public void addNewBook(@RequestBody Book dto) {
-        BookDAO dao = BookDAO.getInstance();
-//        System.out.println(dto);
-        dao.addOne(dto);
-    }
+//    @POST
+//    public void addNewBook(@RequestBody Book dto) {
+//        BookDAO dao = BookDAO.getInstance();
+////        System.out.println(dto);
+//        dao.addOne(dto);
+//    }
 }
